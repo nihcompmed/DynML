@@ -1,14 +1,3 @@
-
-
-## Repository Structure
-- `Chaotic timeseries/` – Benchmark systems (Lorenz, Rössler, double pendulum)
-- `Drosophila/` – Spatiotemporal gene-expression prediction during Drosophila embryogenesis
-- `Liver regeneration/` – Gene-expression dynamics during human liver regeneration
-- `MNIST/` – Static high-dimensional classification using chaotic reservoirs
-
-
-
-
 # DynML: Dynamical System Machine Learning
 
 ## Overview
@@ -26,6 +15,12 @@ This repository accompanies the manuscript:
 ---
 
 # Repository Organization
+
+## Repository Structure
+- `Chaotic timeseries/` – Benchmark systems (Lorenz, Rössler, double pendulum)
+- `Drosophila/` – Spatiotemporal gene-expression prediction during Drosophila embryogenesis
+- `Liver regeneration/` – Gene-expression dynamics during human liver regeneration
+- `MNIST/` – Static high-dimensional classification using chaotic reservoirs
 
 ## Chaotic Time-Series Benchmarks
 
